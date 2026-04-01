@@ -1,0 +1,5 @@
+{
+  "name": "Nexus ITSM",
+  "description": "A modular browser-based ticket system with dynamic forms, group assignments, and automated parent-child workflows.",
+  "requestFramePermissions": []
+}
